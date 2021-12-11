@@ -16,7 +16,7 @@
 
   <servlet>
   	<servlet-name>hello3</servlet-name>
-  	<servlet-class>chapter4.Hello3</servlet-class> 
+  	<servlet-class>chapter4.Hello3</servlet-class>
   </servlet>
 
   <servlet-mapping>
